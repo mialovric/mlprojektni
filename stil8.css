@@ -1,0 +1,33 @@
+@charset "UTF-8";
+/* CSS Document */
+p {
+	color: brown;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: antiquewhite;
+	padding: 20px;
+	}
+
+h2 {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color:hotpink;
+	}
+
+h1 {
+	
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color:cornflowerblue;
+	
+}
+
+body {
+	background-image: url("fotografije/pozadinska.jpeg");
+}
+drugapozadina {
+	
+	background-color: bisque;
+}
+
+
